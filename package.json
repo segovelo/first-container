@@ -1,0 +1,20 @@
+{
+  "name": "first-container",
+  "version": "1.0.0",
+  "description": "This is a test to implement Docker containerization",
+  "main": "src/server.js",
+  "scripts": {
+     "start": "src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segovelo/first-container.git"
+  },
+  "keywords": [],
+  "author": "Segovelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/segovelo/first-container/issues"
+  },
+  "homepage": "https://github.com/segovelo/first-container#readme"
+}
